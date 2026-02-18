@@ -2,12 +2,12 @@ import streamlit as st
 st.title("Technicien Supérieur Géomaticien")
 
 
-    st.image("mbaye.jpeg")
-    st.write("Mbaye Dramé")
-    st.write("Géomaticien")
-    st.write("Adresse:Pikine,Dakar")
-    st.write("Tel:785664635")
-    st.write("E-mail:mbayedrame426@gmail.com")
+st.image("mbaye.jpeg")
+st.write("Mbaye Dramé")
+st.write("Géomaticien")
+st.write("Adresse:Pikine,Dakar")
+st.write("Tel:785664635")
+st.write("E-mail:mbayedrame426@gmail.com")
 
 ########################################
 
