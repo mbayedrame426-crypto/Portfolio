@@ -8,7 +8,6 @@ with sidebar:
     st.write("Adresse:Pikine,Dakar")
     st.write("Tel:785664635")
     st.write("E-mail:mbayedrame426@gmail.com")
-
 ########################################
 
 st.header("A propos de moi ")
