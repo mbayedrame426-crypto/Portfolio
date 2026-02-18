@@ -22,10 +22,10 @@ st.markdown("""En tant que géomaticien, mon ambition est d'accompagner et d'app
 #######################################
 
 st.header("Mes diplômes")
-st.write(".Brevet de technicien supérieur en géomatique obtenu au Centre d'Entrepreneuriat et de Développement Technique (CEDT-LEG15) avec la «mention Tres Bien»")
-st.write(".Baccalauréat en série L2 obtenu au Lycée de Bokhol avec la «mention Bien» ")
-st.write(".Certificat en informatique et internet obtenu grâce au programme de la FORCE-N")
-st.write(".Certificat en secourisme obtenu a la Croix Rouge sénégalaise")
+st.header(".Brevet de technicien supérieur en géomatique obtenu au Centre d'Entrepreneuriat et de Développement Technique (CEDT-LEG15) avec la «mention Tres Bien»")
+st.header(".Baccalauréat en série L2 obtenu au Lycée de Bokhol avec la «mention Bien» ")
+st.header(".Certificat en informatique et internet obtenu grâce au programme de la FORCE-N")
+st.header(".Certificat en secourisme obtenu a la Croix Rouge sénégalaise")
 #########################################
 
 st.header("Mes compétences")
