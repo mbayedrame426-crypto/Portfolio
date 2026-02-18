@@ -3,11 +3,7 @@ st.title("Technicien Supérieur Géomaticien")
 sidebar=st.sidebar
 with sidebar:
 
-    st.image("mbaye.jpeg")
-    st.header("Mbaye Dramé")
     
-    st.write("Tel:785664635")
-    st.write("E-mail:mbayedrame426@gmail.com")
 ########################################
 
 st.header("A propos de moi ")
