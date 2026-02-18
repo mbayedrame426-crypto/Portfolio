@@ -1,6 +1,6 @@
 import streamlit as st
 st.title("Technicien Supérieur Géomaticien")
-sidebar=st.sidebar
+
 with sidebar:
     st.image("mbaye.jpeg")
     st.write("Mbaye Dramé")
