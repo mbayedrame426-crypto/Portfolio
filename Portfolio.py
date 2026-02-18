@@ -2,7 +2,7 @@ import streamlit as st
 st.title("Technicien Supérieur Géomaticien")
 sidebar=st.sidebar
 with sidebar:
-    st.image("mbaye.jpeg", width=100)
+    st.image("mbaye.jpeg")
     st.header("Mbaye Dramé")
     st.write("Adresse:Pikine,Dakar")
     st.write("Tel:785664635")
