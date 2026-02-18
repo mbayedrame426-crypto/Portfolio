@@ -4,9 +4,10 @@ sidebar=st.sidebar
 with sidebar:
 
     st.image("mbaye.jpeg")
-    st.write("Mbaye Dramé")
+    st.header("Mbaye Dramé")
     st.write("Adresse:Pikine,Dakar")
-    st.write("Tel:785664635")
+    st.write("Tel:")
+    st.write("785664635")
     st.write("E-mail:mbayedrame426@gmail.com")
 
 ########################################
