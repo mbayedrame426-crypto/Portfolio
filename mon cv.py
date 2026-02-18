@@ -1,7 +1,7 @@
 import streamlit as st
 sidebar=st.sidebar
 with sidebar:
-    
+    st.image("mbaye.jpeg")
     st.write("Mbaye Dramé")
     st.write("Géomaticien")
     st.write("Adresse:Pikine,Dakar")
