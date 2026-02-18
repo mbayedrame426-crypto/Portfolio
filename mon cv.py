@@ -12,7 +12,7 @@ with sidebar:
 ########################################
 
 st.header("A propos de moi ")
-st.write("Passionné par l'informatique et les nouvelles technologies, j'explore le monde du numérique par la geomatique( Gestion numérique des territoires).Je suis technicien supérieur en géomatique,motivé par la compréhension, l’analyse et la planification des territoires.En tant que géomaticien, j’explore l’espace pour révéler ce que l’œil ne voit pas : les zones à fort potentiel, les risques invisibles, les opportunités stratégiques...Rigoureux, analytique et orienté solution, je mets la géomatique au service du développement durable et de la performance territoriale parcque je prends pleinement en compte l'importance et la puissance de l’information géographique pour transformer les défis territoriaux en solutions concrètes et durables  car comprendre un territoire, c’est comprendre son avenir.")
+st.header("Passionné par l'informatique et les nouvelles technologies, j'explore le monde du numérique par la geomatique( Gestion numérique des territoires).Je suis technicien supérieur en géomatique,motivé par la compréhension, l’analyse et la planification des territoires.En tant que géomaticien, j’explore l’espace pour révéler ce que l’œil ne voit pas : les zones à fort potentiel, les risques invisibles, les opportunités stratégiques...Rigoureux, analytique et orienté solution, je mets la géomatique au service du développement durable et de la performance territoriale parcque je prends pleinement en compte l'importance et la puissance de l’information géographique pour transformer les défis territoriaux en solutions concrètes et durables  car comprendre un territoire, c’est comprendre son avenir.")
 
 #######################################
 
