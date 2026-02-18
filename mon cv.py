@@ -4,15 +4,15 @@ sidebar=st.sidebar
 with sidebar:
     st.image("mbaye.jpeg")
     st.header("Mbaye Dramé")
-    st.header("Adresse:Pikine,Dakar")
-    st.header("Tel:785664635")
-    st.header("E-mail:mbayedrame426@gmail.com")
+    st.write("Adresse:Pikine,Dakar")
+    st.write("Tel:785664635")
+    st.write("E-mail:mbayedrame426@gmail.com")
 
     
 ########################################
 
 st.header("A propos de moi ")
-st.header("Passionné par l'informatique et les nouvelles technologies, j'explore le monde du numérique par la geomatique( Gestion numérique des territoires).Je suis technicien supérieur en géomatique,motivé par la compréhension, l’analyse et la planification des territoires.En tant que géomaticien, j’explore l’espace pour révéler ce que l’œil ne voit pas : les zones à fort potentiel, les risques invisibles, les opportunités stratégiques...Rigoureux, analytique et orienté solution, je mets la géomatique au service du développement durable et de la performance territoriale parcque je prends pleinement en compte l'importance et la puissance de l’information géographique pour transformer les défis territoriaux en solutions concrètes et durables  car comprendre un territoire, c’est comprendre son avenir.")
+st.write("Passionné par l'informatique et les nouvelles technologies, j'explore le monde du numérique par la geomatique( Gestion numérique des territoires).Je suis technicien supérieur en géomatique,motivé par la compréhension, l’analyse et la planification des territoires.En tant que géomaticien, j’explore l’espace pour révéler ce que l’œil ne voit pas : les zones à fort potentiel, les risques invisibles, les opportunités stratégiques...Rigoureux, analytique et orienté solution, je mets la géomatique au service du développement durable et de la performance territoriale parcque je prends pleinement en compte l'importance et la puissance de l’information géographique pour transformer les défis territoriaux en solutions concrètes et durables  car comprendre un territoire, c’est comprendre son avenir.")
 
 #######################################
 
@@ -22,10 +22,10 @@ st.markdown("""En tant que géomaticien, mon ambition est d'accompagner et d'app
 #######################################
 
 st.header("Mes diplômes")
-st.header(".Brevet de technicien supérieur en géomatique obtenu au Centre d'Entrepreneuriat et de Développement Technique (CEDT-LEG15) avec la «mention Tres Bien»")
-st.header(".Baccalauréat en série L2 obtenu au Lycée de Bokhol avec la «mention Bien» ")
-st.header(".Certificat en informatique et internet obtenu grâce au programme de la FORCE-N")
-st.header(".Certificat en secourisme obtenu a la Croix Rouge sénégalaise")
+st.write(".Brevet de technicien supérieur en géomatique obtenu au Centre d'Entrepreneuriat et de Développement Technique (CEDT-LEG15) avec la «mention Tres Bien»")
+st.write(".Baccalauréat en série L2 obtenu au Lycée de Bokhol avec la «mention Bien» ")
+st.write(".Certificat en informatique et internet obtenu grâce au programme de la FORCE-N")
+st.write(".Certificat en secourisme obtenu a la Croix Rouge sénégalaise")
 #########################################
 
 st.header("Mes compétences")
