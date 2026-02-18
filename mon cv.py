@@ -12,7 +12,7 @@ with sidebar:
 ########################################
 
 st.header("A propos de moi ")
-st.write("Passionné par l'informatique et les nouvelles technologies, j'explore le monde du numérique par la geomatique( Gestion numérique des territoires).Je suis technicien supérieur en géomatique,motivé par la compréhension, l’analyse et la planification des territoires.En tant que géomaticien, j’explore l’espace pour révéler ce que l’œil ne voit pas : les zones à fort potentiel, les risques invisibles, les opportunités stratégiques...Rigoureux, analytique et orienté solution, je mets la géomatique au service du développement durable et de la performance territoriale parcque je prends pleinement en compte l'importance et la puissance de l’information géographique pour transformer les défis territoriaux en solutions concrètes et durables  car comprendre un territoire, c’est comprendre son avenir.")
+st.write="Passionné par l'informatique et les nouvelles technologies, j'explore le monde du numérique par la geomatique( Gestion numérique des territoires).Je suis technicien supérieur en géomatique,motivé par la compréhension, l’analyse et la planification des territoires.En tant que géomaticien, j’explore l’espace pour révéler ce que l’œil ne voit pas : les zones à fort potentiel, les risques invisibles, les opportunités stratégiques...Rigoureux, analytique et orienté solution, je mets la géomatique au service du développement durable et de la performance territoriale parcque je prends pleinement en compte l'importance et la puissance de l’information géographique pour transformer les défis territoriaux en solutions concrètes et durables  car comprendre un territoire, c’est comprendre son avenir.")
 
 #######################################
 
@@ -90,7 +90,8 @@ with col3:
     for item in technologies:
         st.write(f"- {item}")
 st.header("Mes réalisations académiques")
-st.write("Réalisations de cartes(types de sols des régions de Dakar et Sédhiou;localisation des commune de Syer;Bokhol;Tivaoune Peulh...")
+st.write=[
+"Réalisations de cartes(types de sols des régions de Dakar et Sédhiou;localisation des commune de Syer;Bokhol;Tivaoune Peulh...)"
 
 
 
