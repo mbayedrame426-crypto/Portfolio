@@ -80,6 +80,7 @@ with col3:
     st.subheader("Technologies et outils")
     technologies = [
         "Logiciels SIG (QGIS, ArcGIS, MapInfo, PostGIS, MySQL...)",
+         "Logiciels Topo et dessin plan (Autocad/Covadis,Sketchup,Archicad,...)",
         "Logiciels télédétection (ENVI, ERDAS)",
         "Python / R pour données géospatiales",
         "Outils de levées terrain (GPS, GNSS, Stations totales, drones, capteurs IoT...)",
