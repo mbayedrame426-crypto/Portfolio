@@ -4,7 +4,7 @@ sidebar=st.sidebar
 with sidebar:
     st.image("mbaye.jpeg")
     st.header("Mbaye Dramé")
-    st.write("Adresse:Pikine,Dakar")
+    st.write["Adresse:Pikine,Dakar"]
     st.write("Tel:785664635")
     st.write("E-mail:mbayedrame426@gmail.com")
 
@@ -36,7 +36,7 @@ col1, col2, col3 = st.columns(3)
 # ---- Techniques ----
 with col1:
     st.subheader("Techniques")
-    techniques = {
+    techniques =[
         "Production de cartes thématiques professionnelles (santé, environnement, agriculture, infrastructure...)",
         "Collecte et traitement de données",
         "Analyse spatiale (superposition, buffer, intersection...)",
@@ -55,14 +55,14 @@ with col1:
         "Webmapping (Cartes interactives et dashboards)",
         "Vérification et contrôle de la qualité des données",
         "Maitrise des gestes de premiers secours en cas accident dans le travail"
-        }
+    ]
     for item in techniques:
         st.write(f"- {item}")
 
 # ---- Aide à la décision ----
 with col2:
     st.subheader("Aide à la décision")
-    aide_decision = {
+    aide_decision = [
         "Rapports techniques et cartographiques",
         "Optimisation des investissements",
         "Détection des changements dans le temps",
@@ -71,14 +71,14 @@ with col2:
         "Aide au choix des sites d'implantation (forages, infrastructures, cultures...)",
         "Priorisation des zones d'intervention pour les décideurs",
         "Planification et gestion urbaine"
-    }
+    ]
     for item in aide_decision:
         st.write(f"- {item}")
 
 # ---- Technologies et outils ----
 with col3:
     st.subheader("Technologies et outils")
-    technologies = {
+    technologies =[
         "Logiciels SIG (QGIS, ArcGIS, MapInfo, PostGIS, MySQL...)",
          "Logiciels Topo et dessin plan (Autocad/Covadis,Sketchup,Archicad,...)",
         "Logiciels télédétection (ENVI, ERDAS)",
@@ -86,7 +86,7 @@ with col3:
         "Outils de levées terrain (GPS, GNSS, Stations totales, drones, capteurs IoT...)",
         "Google Earth Engine",
         "Applications mobiles de collecte de données (Mobile Topographer, KoboCollect...)"
-        }
+    ]
     for item in technologies:
         st.write(f"- {item}")
 
@@ -94,12 +94,12 @@ with col3:
 st.header("Centres d'intérêts")
 
 # Liste des centres d'intérêts avec description
-interets = {
+interets = [
     "Randonnée et visite": "Pour explorer la nature et les terrains à cartographier.",
     "Photographie géospatiale": "Pour capturer des paysages ou structures pour analyse ou documentation.",
     "Innovation et nouvelles technologies": "Pour nourrir ma curiosité et mon amour pour les outils numériques et logiciels SIG.",
     "Projets communautaires ou éducatifs": "Pour la transmission et la promotion de la géomatique et la sensibilisation locale."
-}
+]
 
 # Affichage
 for titre, description in interets.items():
