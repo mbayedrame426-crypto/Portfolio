@@ -89,10 +89,6 @@ with col3:
     ]
     for item in technologies:
         st.write(f"- {item}")
-st.header("Mes réalisations académiques")
-st.write=[
-"Réalisations de cartes(types de sols des régions de Dakar et Sédhiou;localisation des commune de Syer;Bokhol;Tivaoune Peulh...)"]
-
 
 
 
